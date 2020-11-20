@@ -1,6 +1,6 @@
 ---
 layout: help
-title: How Can We Help?
+title: How Can We Help You?
 subtitle: Find advice and answers from our support team fast or get in touch
 hero:
     background: "#663399"
