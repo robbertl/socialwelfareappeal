@@ -45,9 +45,9 @@ github_username:    somename
 
 # Default footer image settings
 footer:
-    copyright:      Made by <a href="https://unbound.studio/">Unbound Studio</a> in Dublin 3, Ireland.
-
-# Disqus comments shortname, requires Disqus account https://disqus.com/
+    copyright:      Copyright: 2020 <a href="https://socialwelfareappeal.ie">Social Welfare Appeal</a>  | Made by <a href="https://unbound.studio/">Unbound Studio</a>.
+    
+    # Disqus comments shortname, requires Disqus account https://disqus.com/
 disqus:
     shortname:      # 7865
 
