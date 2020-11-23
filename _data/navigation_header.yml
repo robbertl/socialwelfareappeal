@@ -1,6 +1,9 @@
 # Navbar menu navigation links
-- title: Help
+- title: Home
   url: /
+
+- title: Help
+  url: /help/
 
 - title: Faq
   url: /faq/
