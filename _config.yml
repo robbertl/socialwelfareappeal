@@ -45,7 +45,7 @@ github_username:    somename
 
 # Default footer image settings
 footer:
-    copyright:      Copyright: 2020 <a href="http://socialwelfareappeal.ie">Social Welfare Appeal</a>  | Made by <a href="https://unbound.studio/">Unbound Studio</a> Rome, Italy..
+    copyright:      Made by <a href="https://unbound.studio/">Unbound Studio</a>. | Copyright: 2020 <a href="http://socialwelfareappeal.ie">Social Welfare Appeal</a>. 
     
     # Disqus comments shortname, requires Disqus account https://disqus.com/
 disqus:
