@@ -15,12 +15,12 @@ baseurl:            ""
 permalink:          /:title/
 
 # Site base hostname & protocol, e.g. http://example.com
-url:                "https://jekyll-theme-desk.netlify.com"
+url:                "https://socialwelfareappeal.ie"
 
 # Site logo, dark and light depending on page hero text setting dark/light
 logo_image:
     light:          logo-light.svg  # e.g. logo.png, upload logo image file to /assets/posts/ folder
-    dark:           logo-dark.png  # e.g. logo.png, upload logo image file to /assets/posts/ folder
+    dark:           logo-dark.svg  # e.g. logo.png, upload logo image file to /assets/posts/ folder
 
 # Author settings, displayed on about page
 author:
@@ -45,7 +45,7 @@ github_username:    somename
 
 # Default footer image settings
 footer:
-    copyright:      Copyright: 2020 <a href="https://socialwelfareappeal.ie">SocialWelfareAppeal.ie</a> | Social Welfare Appeals Information Ireland.
+    copyright:      Copyright: 2020 <a href="http://socialwelfareappeal.ie">SocialWelfareAppeal.ie</a> | Social Welfare Appeals Information Ireland.
 
 # Disqus comments shortname, requires Disqus account https://disqus.com/
 disqus:
