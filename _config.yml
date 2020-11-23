@@ -21,11 +21,10 @@ url:                "https://jekyll-theme-desk.netlify.com"
 logo_image:
     light:          logo-light.svg  # e.g. logo.png, upload logo image file to /assets/posts/ folder
     dark:           logo-dark.png  # e.g. logo.png, upload logo image file to /assets/posts/ folder
-    text:           SocialWelfareAppeal.ie     # if the above "logo:" image variable  is not set, this text logo is displayed instead
 
 # Author settings, displayed on about page
 author:
-    name:           John Smith
+    name:           SocialWelfareAppeal.ie
     email:
     website:
     facebook:       https://www.facebook.com/
