@@ -1,7 +1,10 @@
 # Footer navigation links
 
-- title: Help
+- title: Home
   url: /
+  
+- title: Help
+  url: /thanks/
 
 - title: Faq
   url: /faq/
