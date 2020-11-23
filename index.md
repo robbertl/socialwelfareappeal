@@ -3,9 +3,9 @@ layout: help
 title: How Can We Help You?
 subtitle: Find advice and answers from our support team fast or get in touch
 hero:
-    background: "#663399"
+    background: "#004d44"
     image: header_2.jpg
-    overlay: "linear-gradient(-200deg, rgba(0, 77, 68, 1) 0%, rgba(90, 51, 153, 0.9) 53%, rgba(71, 51, 153, 0.9) 100%)"
+    overlay: "linear-gradient(-200deg, rgba(101, 51, 153, 0.9) 0%, rgba(90, 51, 153, 0.9) 53%, rgba(71, 51, 153, 0.9) 100%)"
     align: center
     text: light
     search: true
