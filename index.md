@@ -1,7 +1,7 @@
 ---
 layout: help
-title: Social Welfare Appeals?
-subtitle: Information you need to know if you are making a Social Welfare Appeal
+title: Social Welfare Appeals
+subtitle: What you need to know if you are making a Social Welfare Appeal
 hero:
     background: "#004d44"
     align: center
