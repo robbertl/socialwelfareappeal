@@ -2,11 +2,11 @@
 
 - heading: Social Welfare Appeals
   categories:
-    - title: Getting Started
-      desc: Get your account up and running in just few easy steps
+    - title: Starting Your Appeal
+      desc: What you need to know to make a Social Welfare Appeal
       icon: settings
 
-    - title: Account and Billing
+    - title: The Appeals Process
       desc: Managing your account, creating new users and exporting data
       icon: credit-card
 
