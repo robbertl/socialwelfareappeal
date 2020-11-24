@@ -19,8 +19,8 @@ url:                "https://socialwelfareappeal.ie"
 
 # Site logo, dark and light depending on page hero text setting dark/light
 logo_image:
-    light:          logo-light.svg  # e.g. logo.png, upload logo image file to /assets/posts/ folder
-    dark:           logo1.png  # e.g. logo.png, upload logo image file to /assets/posts/ folder
+    light:          logo-light.png  # e.g. logo.png, upload logo image file to /assets/posts/ folder
+    dark:           logo-dark.png  # e.g. logo.png, upload logo image file to /assets/posts/ folder
 
 # Author settings, displayed on about page
 author:
