@@ -1,13 +1,13 @@
 # Categories home page navigation
 
-- heading: Social Welfare Appeal
+- heading: Social Welfare Appeals
   categories:
     - title: Starting Your Appeal
       desc: What you need to know to successfully submit your Social Welfare Appeal
       icon: settings
 
     - title: The Appeals Process
-      desc: How it works and how you can improve your chances of a positive outcome
+      desc: How it works and how you can improve your chances of a Successful Appeal
       icon: credit-card
 
     - title: Getting Help
