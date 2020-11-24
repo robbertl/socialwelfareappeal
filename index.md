@@ -1,7 +1,7 @@
 ---
 layout: help
 title: Social Welfare Appeals
-subtitle: What you need to know if you are making a Social Welfare Appeal
+subtitle: Information you need when making a Social Welfare Appeal
 hero:
     background: "#004d44"
     align: center
@@ -14,7 +14,7 @@ featured:
     tag: featured
 cta:
     title: Didn't find an answer to your question?
-    subtitle: Get in touch with us for details on additional services and custom work pricing
-    button_text: Contact Us   
-    button_url: /contact/      
+    subtitle: Find out where you can get more information and support in making your Appeal
+    button_text: More Information   
+    button_url: /links/      
 ---
