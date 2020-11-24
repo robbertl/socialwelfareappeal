@@ -5,8 +5,8 @@
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
 # Site title and description
-title:              Desk
-description:        Knowledge base Jekyll theme.
+title:              Social Welfare Appeals Ireland | SocialWelfareAppeal.ie
+description:        Find out what you need to know if you are making a Social Welfare Appeal to the Social Welare Appeals Office in Ireland.
 
 # Site subpath, e.g. /blog
 baseurl:            ""
@@ -45,7 +45,7 @@ github_username:    somename
 
 # Default footer image settings
 footer:
-    copyright:      <a href="https://socialwelfareappeal.ie">Social Welfare Appeal Ireland</a> | Design <a href="https://unbound.studio/">Unbound Studio</a>.   
+    copyright:      <a href="https://socialwelfareappeal.ie">Social Welfare Appeals Ireland</a> | Design <a href="https://unbound.studio/">Unbound Studio</a>.   
     
     # Disqus comments shortname, requires Disqus account https://disqus.com/
 disqus:
