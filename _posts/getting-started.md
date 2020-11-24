@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Getting started with our application
-categories: [Getting Started, Account and Billing, Troubleshooting]
+categories: [Starting Your Appeal, Account and Billing, Troubleshooting]
 tags: featured
 author: John Black
 ---
