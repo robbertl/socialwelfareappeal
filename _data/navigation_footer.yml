@@ -2,12 +2,18 @@
 
 - title: Home
   url: /
-  
-- title: Help
-  url: /thanks/
+
+- title: Appeals
+  url: /appeals/
 
 - title: Faq
   url: /faq/
-
+  
+- title: About
+  url: /about/
+  
+- title: Links
+  url: /links/
+  
 - title: Contact
   url: /contact/
