@@ -1,6 +1,6 @@
 ---
 layout: help
-title: Social Welfare Appeals
+title: Social Welfare Appeal
 subtitle: Information you need when making a Social Welfare Appeal
 hero:
     background: "#004d44"
@@ -10,7 +10,7 @@ hero:
 category:
     columns: 3
 featured:
-    title: Featured Articles
+    title: Most Read Articles
     tag: featured
 cta:
     title: Didn't find an answer to your question?
