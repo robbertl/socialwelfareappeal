@@ -1,7 +1,7 @@
 ---
 layout: help
-title: How Can We Help You?
-subtitle: Find advice and answers from our support team fast or get in touch
+title: Social Welfare Appeals?
+subtitle: Information you need to know if you are making a Social Welfare Appeal
 hero:
     background: "#004d44"
     align: center
