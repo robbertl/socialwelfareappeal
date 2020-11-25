@@ -12,7 +12,7 @@ description:        Find out what you need to know if you are making a Social We
 baseurl:            ""
 
 # Permalink URLs structure, for permalink style options see: https://jekyllrb.com/docs/permalinks/
-permalink:          /:none/
+permalink:          /:title/
 
 # Site base hostname & protocol, e.g. http://example.com
 url:                "https://socialwelfareappeal.ie"
