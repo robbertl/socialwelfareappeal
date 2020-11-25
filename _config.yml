@@ -55,7 +55,7 @@ disqus:
 google_analytics:
 
 # Jekyll Sitemap generator, https://blog.webjeda.com/jekyll-sitemap/
-plugins:
+gems:  - jekyll-sitemap
 
 # Google maps API key, get your key here: https://developers.google.com/maps/documentation/javascript/get-api-key
 google_maps_api_key:
@@ -71,7 +71,7 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-gist
-  - jekyll-sitemap
+  
 exclude:
   - Gemfile
   - Gemfile.lock
