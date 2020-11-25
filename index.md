@@ -10,7 +10,7 @@ hero:
 category:
     columns: 3
 featured:
-    title: Most Read Articles
+    title: Most Read Articles...
     tag: featured
 cta:
     title: Didn't find an answer to your question?
