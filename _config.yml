@@ -80,7 +80,3 @@ sass:
 collections:
   faqs:
     output: false
-
-# Jekyll Sitemap generator, https://blog.webjeda.com/jekyll-sitemap/
-gems:
-  - jekyll-sitemap
