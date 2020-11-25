@@ -82,5 +82,5 @@ collections:
     output: false
 
 # Jekyll Sitemap generator, https://blog.webjeda.com/jekyll-sitemap/
-gem:
+plugins:
   - jekyll-sitemap
