@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Oral Hearing
+title: Summary Appeal
 categories: [Getting Help, Troubleshooting]
 author: John Black
 ---
