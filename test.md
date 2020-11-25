@@ -10,7 +10,7 @@ layout: page
 </head>
 <body>
 123
-      {{ content }}
-345
+
+<h2>345</h2>
 </body>
 </html>
