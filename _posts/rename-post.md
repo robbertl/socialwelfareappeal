@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Renamed Posting
-categories: [Getting Started, Troubleshooting]
+categories: [Getting Help, Troubleshooting]
 author: John Black
 ---
 
