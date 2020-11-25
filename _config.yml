@@ -54,9 +54,6 @@ disqus:
 # Google analytics code, get your code here https://www.google.com/analytics/
 google_analytics:
 
-# Jekyll Sitemap generator, https://blog.webjeda.com/jekyll-sitemap/
-gems:  - jekyll-sitemap
-
 # Google maps API key, get your key here: https://developers.google.com/maps/documentation/javascript/get-api-key
 google_maps_api_key:
 
@@ -83,3 +80,7 @@ sass:
 collections:
   faqs:
     output: false
+
+# Jekyll Sitemap generator, https://blog.webjeda.com/jekyll-sitemap/
+gem:
+  - jekyll-sitemap
