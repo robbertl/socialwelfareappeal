@@ -64,6 +64,9 @@ post_assets:        /assets/posts/
 markdown:           kramdown
 highlighter:        rouge
 
+kramdown:
+    auto_ids: true
+
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
