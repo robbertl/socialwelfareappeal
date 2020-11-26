@@ -11,15 +11,56 @@ WebJeda is a web designing company
 .
 .
 The funky text is [described below](#my-funky-heading)
+**Disclaimer:** This website is under constant modification.
+If you find something isn't right then,
+I might be doing some change in the back-end.
+
+**Disclaimer:** This website is under constant modification.
+If you find something isn't right then,
+I might be doing some change in the back-end.
+
+**Disclaimer:** This website is under constant modification.
+If you find something isn't right then,
+I might be doing some change in the back-end.
+
+**Disclaimer:** This website is under constant modification.
+If you find something isn't right then,
+I might be doing some change in the back-end.
 
 ### My Funky Heading
 
 The funky text is [described below](#my-funky-heading)
+**Disclaimer:** This website is under constant modification.
+If you find something isn't right then,
+I might be doing some change in the back-end.
+
+**Disclaimer:** This website is under constant modification.
+If you find something isn't right then,
+I might be doing some change in the back-end.
+
+**Disclaimer:** This website is under constant modification.
+If you find something isn't right then,
+I might be doing some change in the back-end.
+
+**Disclaimer:** This website is under constant modification.
+If you find something isn't right then,
+I might be doing some change in the back-end.
 
 ### My Funky Heading
 {: #funky }
 
 The funky text is [described below](#funky)
+**Disclaimer:** This website is under constant modification.
+If you find something isn't right then,
+I might be doing some change in the back-end.
+
+**Disclaimer:** This website is under constant modification.
+If you find something isn't right then,
+I might be doing some change in the back-end.
+
+**Disclaimer:** This website is under constant modification.
+If you find something isn't right then,
+I might be doing some change in the back-end.
 
 
 https://stackoverflow.com/questions/4629675/jekyll-markdown-internal-links
