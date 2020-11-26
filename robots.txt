@@ -2,4 +2,8 @@
 layout: none
 ---
 User-agent: *
+
+Disallow: /assets/*
+
+# Sitemap files
 Sitemap: {{ site.url }}/sitemap.xml
