@@ -80,9 +80,3 @@ sass:
 collections:
   faqs:
     output: false
-
-sitemap:
-  lastmod: 2020-11-26
-  priority: 0.7
-  changefreq: 'weekly'
-  exclude: 'yes'
