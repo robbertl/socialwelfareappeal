@@ -10,7 +10,8 @@ WebJeda is a web designing company
 .
 .
 .
-The funky text is [described below](#my-funky-heading)
+The funky text is [described below](#funky)
+
 **Disclaimer:** This website is under constant modification.
 If you find something isn't right then,
 I might be doing some change in the back-end.
