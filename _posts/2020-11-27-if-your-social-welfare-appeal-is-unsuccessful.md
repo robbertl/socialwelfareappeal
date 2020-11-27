@@ -21,7 +21,9 @@ ff
 ff
 [![Link to ITRD][https://socialwelfareappeal.ie/assets/posts/image2.png]][https://itrd.ie]
 
-[![alt text](https://socialwelfareappeal.ie/assets/posts/image2.png/… "Let's check Jason S' profile page")](https://meta.stackoverflow.com/users/44330/jason-s)
+[![MyAppeal.ie](https://socialwelfareappeal.ie/assets/posts/image2.png/… "Let's check Jason S' profile page")](https://meta.stackoverflow.com/users/44330/jason-s)
+
+[![MyAppeal.ie](https://www.gravatar.com/avatar/… "Let's check Jason S' profile page")](https://meta.stackoverflow.com/users/44330/jason-s)
 
 
 
