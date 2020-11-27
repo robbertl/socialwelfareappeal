@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Obtain Your Social Welfare File
+title: Getting Your Social Welfare File
 categories: [Starting Your Appeal]
 author: SocialWefareAppeal.ie
 ---
