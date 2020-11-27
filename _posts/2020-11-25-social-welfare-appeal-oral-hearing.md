@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Oral Hearing
-categories: [Getting Help, Troubleshooting]
-author: John Black
+title: Social Welfare Appeal Oral Hearing
+categories: [The Appeals Process]
+author: SocialWelfareAppeal.ie
 ---
 
 #### Sections in this article
