@@ -5,7 +5,7 @@ categories: [The Appeals Process]
 tags: featured
 author: SocialWelfareAppeal.ie
 ---
-
+[![MyAppeal.ie](https://socialwelfareappeal.ie/assets/posts/image2.png "ITRD.ie")](https://itrd.ie)
 
 This is my initial paragraph. In it I’d like to provide a link to the [Jekyll homepage](http://jekyllrb.com/ "Jekyll"). I want to add **bold** and *italic* formatting to text as well using the `strong` and `emphasis` tags.
 
@@ -22,7 +22,7 @@ ff.
 .
 .
 
-[![MyAppeal.ie](https://socialwelfareappeal.ie/assets/posts/image2.png "ITRD.ie")](https://itrd.ie)
+
 
 
 
@@ -67,3 +67,5 @@ Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, te
 In accumsan lacus ac neque maximus dictum. Phasellus eleifend leo id mattis bibendum. Curabitur et purus turpis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;
 
 Etiam in fermentum mi. Sed et tempor felis, eu aliquet nisi. Nam eget ullamcorper arcu. Nunc porttitor nisl a dolor blandit, eget consequat sem maximus. Phasellus lacinia quam porta orci malesuada, vel tincidunt.
+
+[![MyAppeal.ie](https://socialwelfareappeal.ie/assets/posts/image2.png "ITRD.ie")](https://itrd.ie)
