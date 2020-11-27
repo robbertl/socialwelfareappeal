@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What is a Summary Social Welfare Appeal?
+title: What is a Summary Appeal?
 categories: [The Appeals Process]
 author: John Black
 ---
