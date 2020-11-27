@@ -19,19 +19,7 @@ I usually search using [Google](https://www.google.com "Google").
 ff
 ff
 ff
-[![Link to ITRD][https://socialwelfareappeal.ie/assets/posts/image2.png]][https://itrd.ie]
-
-[![MyAppeal.ie](https://www.inou.ie/assets/img/2008/07/200807151235091… "Let's check Jason S' profile page")](https://meta.stackoverflow.com/users/44330/jason-s)
-
-[![MyAppeal.ie](https://i.stack.imgur.com/wPW28.png… "Let's check Jason S' profile page")](https://meta.stackoverflow.com/users/44330/jason-s)
-
-[![MyAppeal.ie](https://www.gravatar.com/avatar/… "Let's check Jason S' profile page")](https://meta.stackoverflow.com/users/44330/jason-s)
-
-[![MyAppeal.ie](https://www.gravatar.com/avatar/%E2%80%A6… "Let's check Jason S' profile page")](https://meta.stackoverflow.com/users/44330/jason-s)
-
-[![MyAppeal.ie](https://socialwelfareappeal.ie/assets/posts/image2.png "Let's check Jason S' profile page")](https://meta.stackoverflow.com/users/44330/jason-s)
-
-[![MyAppeal.ie](https://www.socialwelfareappeal.ie/assets/posts/image2.png "Let's check Jason S' profile page")](https://meta.stackoverflow.com/users/44330/jason-s)
+[![MyAppeal.ie](https://socialwelfareappeal.ie/assets/posts/image2.png "ITRD.ie")](https://itrd.ie)
 
 
 
