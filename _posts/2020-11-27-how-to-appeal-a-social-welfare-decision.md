@@ -6,6 +6,18 @@ tags: featured
 author: SocialWelfareAppeal.ie
 ---
 
+
+This is my initial paragraph. In it I’d like to provide a link to the [Jekyll homepage](http://jekyllrb.com/ "Jekyll"). I want to add **bold** and *italic* formatting to text as well using the `strong` and `emphasis` tags.
+
+This is another paragraph. I’d like to follow it with an unordered list.
+
+* item 1
+* I usually search using [Google](https://www.google.com "Google").
+* item 3
+
+I usually search using [Google](https://www.google.com "Google").
+
+
 #### Sections in this article
 {:.no_toc}
 * TOC
