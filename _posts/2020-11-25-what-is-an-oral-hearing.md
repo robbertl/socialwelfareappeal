@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Social Welfare Appeal Oral Hearing
+title: What is an Oral Hearing?
 categories: [The Appeals Process]
 author: SocialWelfareAppeal.ie
 ---
