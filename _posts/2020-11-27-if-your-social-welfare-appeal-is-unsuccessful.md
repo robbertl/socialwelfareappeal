@@ -30,7 +30,7 @@ Nulla non sollicitudin. Morbi sit amet laoreet ipsum, vel pretium mi. Morbi vari
 ## Image Lightbox Example
 Nunc porta malesuada porta. Etiam tristique vestibulum dolor at ultricies. Proin hendrerit sapien sed erat fermentum, at commodo velit consectetur.
 
-{% include image.html img="image1.png" style="wide" lightbox="true" alt="Alt for image" caption="Image in lightbox" %}
+{% include image.html img="image2.png" style="wide" lightbox="true" alt="Alt for image" caption="Image in lightbox" %}
 
 Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis. Phasellus at massa sit amet ante semper fermentum sed eget lectus. Quisque id dictum magna, et dapibus turpis.
 
