@@ -6,7 +6,7 @@
 
 # Site title and description
 title:              Social Welfare Appeal
-description:        Find out what you need to know if you are making a Social Welfare Appeal to the Social Welare Appeals Office in Ireland.
+description:        Information you need when making a Social Welfare Appeal.
 
 # Site subpath, e.g. /blog
 baseurl:            ""
@@ -45,7 +45,7 @@ github_username:    somename
 
 # Default footer image settings
 footer:
-    copyright:      <a href="https://socialwelfareappeal.ie">Social Welfare Appeals Ireland</a> | Design <a href="https://unbound.studio/">Unbound Studio</a>.   
+    copyright:      <a href="https://socialwelfareappeal.ie">Social Welfare Appeals</a> Ireland | Design <a href="https://unbound.studio/">Unbound Studio</a>.   
     
     # Disqus comments shortname, requires Disqus account https://disqus.com/
 disqus:
@@ -82,7 +82,7 @@ collections:
     output: false
     
 sitemap:
-  lastmod: 2020-11-26
+  lastmod: 2020-11-27
   priority: 0.7
   changefreq: 'weekly'
   exclude: 'yes'
