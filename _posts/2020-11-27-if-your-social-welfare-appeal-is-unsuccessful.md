@@ -29,7 +29,7 @@ ff
 
 [![MyAppeal.ie](https://www.gravatar.com/avatar/%E2%80%A6… "Let's check Jason S' profile page")](https://meta.stackoverflow.com/users/44330/jason-s)
 
-[![MyAppeal.ie](https://www.gravatar.com/avatar/%E2%80%A6 "Let's check Jason S' profile page")](https://meta.stackoverflow.com/users/44330/jason-s)
+[![MyAppeal.ie](https://socialwelfareappeal.ie/assets/posts/image2.png "Let's check Jason S' profile page")](https://meta.stackoverflow.com/users/44330/jason-s)
 
 
 
