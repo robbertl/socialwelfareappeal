@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+description: The SocialWelfareAppealie website provides information and details in relation to making Social Welfare Appeals in Ireland.
 permalink: /about/
 ---
 
