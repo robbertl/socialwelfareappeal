@@ -1,6 +1,7 @@
 ---
 layout: post
 title: If your Social Welfare Appeal is Unsuccessful
+tagline: Find out what you can do if your Social Welfare Appeal is Unsuccessful
 description: This page contains information on what you can do if your Social Welfare Appeal has been unsuccessful.
 categories: [The Appeals Process]
 tags: featured
