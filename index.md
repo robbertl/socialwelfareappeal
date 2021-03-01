@@ -6,7 +6,7 @@ hero:
     background: "#004d44"
     align: center
     text: light
-    search: true
+    search: false
 category:
     columns: 3
 featured:
