@@ -20,7 +20,8 @@ Nunc porta malesuada porta. Etiam tristique vestibulum dolor at ultricies. Proin
 {% include image.html img="image1.png" style="wide" lightbox="true" alt="Alt for image" caption="Image in lightbox" %}
 
 Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis. Phasellus at massa sit amet ante semper fermentum sed eget lectus. Quisque id dictum magna, et dapibus turpis.
-var scroll = new SmoothScroll('a[href*="#"]');
+<script src="/assets/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop()</script>
 
 
 ## Example Of Code Block
