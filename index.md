@@ -1,5 +1,6 @@
 ---
 layout: help
+title: Social Welfare Appeal
 subtitle: Information you need when making a Social Welfare Appeal
 hero:
     background: "#004d44"
