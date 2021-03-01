@@ -21,7 +21,7 @@ Nunc porta malesuada porta. Etiam tristique vestibulum dolor at ultricies. Proin
 
 Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis. Phasellus at massa sit amet ante semper fermentum sed eget lectus. Quisque id dictum magna, et dapibus turpis.
 
-<a href="#" data-uk-totop="" data-uk-scroll="duration: 400" class="uk-float-right uk-margin-small-top uk-totop uk-icon"><svg width="18" height="10" viewBox="0 0 18 10" xmlns="http://www.w3.org/2000/svg"><polyline fill="none" stroke="#000" stroke-width="1.2" points="1 9 9 1 17 9 "></polyline></svg>Back to the Top</a>
+<a href="#" title="Back to top" data-uk-totop="" data-uk-scroll="duration: 400" class="uk-float-right uk-margin-small-top uk-totop uk-icon">Back to the Top&nbsp;&nbsp;&nbsp;<svg width="18" height="10" viewBox="0 0 18 10" xmlns="http://www.w3.org/2000/svg"><polyline fill="none" stroke="#000" stroke-width="1.2" points="1 9 9 1 17 9 "></polyline></svg></a>
 <br>
 <hr>
 
@@ -39,7 +39,7 @@ In accumsan lacus ac neque maximus dictum. Phasellus eleifend leo id mattis bibe
   <script src="{{ "/assets/js/main.js" | relative_url }}"></script>
 </head>
 ```
-<a href="#" data-uk-totop="" data-uk-scroll="duration: 400" class="uk-float-right uk-margin-small-top uk-totop uk-icon"><svg width="18" height="10" viewBox="0 0 18 10" xmlns="http://www.w3.org/2000/svg"><polyline fill="none" stroke="#000" stroke-width="1.2" points="1 9 9 1 17 9 "></polyline></svg></a>
+<a href="#" title="Back to top" data-uk-totop="" data-uk-scroll="duration: 400" class="uk-float-right uk-margin-small-top uk-totop uk-icon">Back to the Top&nbsp;&nbsp;&nbsp;<svg width="18" height="10" viewBox="0 0 18 10" xmlns="http://www.w3.org/2000/svg"><polyline fill="none" stroke="#000" stroke-width="1.2" points="1 9 9 1 17 9 "></polyline></svg></a>
 <br>
 <hr>
 
@@ -51,4 +51,4 @@ Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, te
 In accumsan lacus ac neque maximus dictum. Phasellus eleifend leo id mattis bibendum. Curabitur et purus turpis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;
 
 Etiam in fermentum mi. Sed et tempor felis, eu aliquet nisi. Nam eget ullamcorper arcu. Nunc porttitor nisl a dolor blandit, eget consequat sem maximus. Phasellus lacinia quam porta orci malesuada, vel tincidunt.
-<a href="#" title="Go to top" data-uk-totop="" data-uk-scroll="duration: 400" class="uk-float-right uk-margin-small-top uk-totop uk-icon"><svg width="18" height="10" viewBox="0 0 18 10" xmlns="http://www.w3.org/2000/svg"><polyline fill="none" stroke="#000" stroke-width="1.2" points="1 9 9 1 17 9 "></polyline></svg></a>
+<a href="#" title="Back to top" data-uk-totop="" data-uk-scroll="duration: 400" class="uk-float-right uk-margin-small-top uk-totop uk-icon">Back to the Top&nbsp;&nbsp;&nbsp;<svg width="18" height="10" viewBox="0 0 18 10" xmlns="http://www.w3.org/2000/svg"><polyline fill="none" stroke="#000" stroke-width="1.2" points="1 9 9 1 17 9 "></polyline></svg></a>
