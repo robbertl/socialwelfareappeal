@@ -9,6 +9,7 @@ hero:
     search: false
 category:
     columns: 3
+    rows: 2
 featured:
     title: Most Read Articles...
     tag: featured
