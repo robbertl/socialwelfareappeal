@@ -8,7 +8,7 @@ hero:
     text: light
     search: false
 category:
-    columns: 8
+    columns: 4
 featured:
     title: Most Read Articles...
     tag: featured
