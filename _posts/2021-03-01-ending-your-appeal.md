@@ -20,8 +20,9 @@ Nunc porta malesuada porta. Etiam tristique vestibulum dolor at ultricies. Proin
 {% include image.html img="image1.png" style="wide" lightbox="true" alt="Alt for image" caption="Image in lightbox" %}
 
 Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis. Phasellus at massa sit amet ante semper fermentum sed eget lectus. Quisque id dictum magna, et dapibus turpis.
-<script src="/assets/vanilla-back-to-top.min.js"></script>
-<script>addBackToTop()</script>
+
+<a href="#" data-uk-totop="" data-uk-scroll="duration: 400" class="uk-float-right uk-margin-small-top uk-totop uk-icon"><svg width="18" height="10" viewBox="0 0 18 10" xmlns="http://www.w3.org/2000/svg"><polyline fill="none" stroke="#000" stroke-width="1.2" points="1 9 9 1 17 9 "></polyline></svg></a>
+
 
 
 ## Example Of Code Block
