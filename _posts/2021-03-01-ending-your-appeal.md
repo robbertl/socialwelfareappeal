@@ -2,6 +2,7 @@
 layout: post
 title: What is a Summary Appeal?
 slug: ending-your-appeal
+permalink: /:slug/
 excerpt: 'Find out how to end your Social Welare Appeal and reinstate your payment.'
 date: '2019-03-02 09:51:54'
 tags:
@@ -10,6 +11,7 @@ tags:
  - Appeals
  - Social Welfare Appeals Office
 featured: true
+timezone: Europe/Dublin
 categories: [Ending Your Appeal]
 author: John Black
 ---
