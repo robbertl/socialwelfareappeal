@@ -20,6 +20,7 @@ Nunc porta malesuada porta. Etiam tristique vestibulum dolor at ultricies. Proin
 {% include image.html img="image1.png" style="wide" lightbox="true" alt="Alt for image" caption="Image in lightbox" %}
 
 Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis. Phasellus at massa sit amet ante semper fermentum sed eget lectus. Quisque id dictum magna, et dapibus turpis.
+Back to Top&nbsp;&nbsp;<a class="uk-button uk-button-primary" href="#top" uk-scroll>Scroll down</a>
 
 ## Example Of Code Block
 In accumsan lacus ac neque maximus dictum. Phasellus eleifend leo id mattis bibendum. Curabitur et purus turpis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;
