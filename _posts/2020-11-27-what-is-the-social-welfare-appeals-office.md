@@ -21,7 +21,7 @@ Nunc porta malesuada porta. Etiam tristique vestibulum dolor at ultricies. Proin
 
 Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis. Phasellus at massa sit amet ante semper fermentum sed eget lectus. Quisque id dictum magna, et dapibus turpis.
 
-<a class="uk-align-right" href="#top" uk-scroll>Back to Top</a>
+<a class="uk-align-right" href="#top" uk-scroll>^ Back to Top ^</a>
 <br>
 ## Example Of Code Block
 In accumsan lacus ac neque maximus dictum. Phasellus eleifend leo id mattis bibendum. Curabitur et purus turpis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;
@@ -36,7 +36,7 @@ In accumsan lacus ac neque maximus dictum. Phasellus eleifend leo id mattis bibe
   <script src="{{ "/assets/js/main.js" | relative_url }}"></script>
 </head>
 ```
-<a class="uk-align-right" href="#top" uk-scroll>Back to Top</a>
+<a class="uk-align-right" href="#top" uk-scroll>^ Back to Top ^</a>
 <br>
 ## Text and Quote
 Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis. Phasellus at massa sit amet ante semper fermentum sed eget lectus. Quisque id dictum magna turpis.
@@ -47,5 +47,5 @@ In accumsan lacus ac neque maximus dictum. Phasellus eleifend leo id mattis bibe
 
 Etiam in fermentum mi. Sed et tempor felis, eu aliquet nisi. Nam eget ullamcorper arcu. Nunc porttitor nisl a dolor blandit, eget consequat sem maximus. Phasellus lacinia quam porta orci malesuada, vel tincidunt.
 
-<a class="uk-align-right" href="#top" uk-scroll>Back to Top</a>
+<a class="uk-align-right" href="#top" uk-scroll>^ Back to Top ^</a>
 <br>
